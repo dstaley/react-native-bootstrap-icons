@@ -1,0 +1,5 @@
+plugins:
+  removeAttrs:
+    attrs:
+      - "svg:class"
+      - "svg:xmlns"

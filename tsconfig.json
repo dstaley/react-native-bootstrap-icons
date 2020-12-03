@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "declaration": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "jsx": "react-native",
+    "outDir": "icons",
+    "skipLibCheck": true
+  },
+  "include": ["components"]
+}
