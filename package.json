@@ -1,6 +1,6 @@
 {
   "name": "react-native-bootstrap-icons",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.2",
   "description": "Bootstrap's SVG icons converted to react-native-svg components",
   "main": "index.js",
   "types": "./icons/index.d.ts",
@@ -36,8 +36,8 @@
     "@svgr/plugin-prettier": "^5.5.0",
     "@svgr/plugin-svgo": "^5.5.0",
     "@types/react": "^17.0.0",
-    "@types/react-native": "^0.63.37",
-    "bootstrap-icons": "^1.1.0",
+    "@types/react-native": "^0.64.2",
+    "bootstrap-icons": "^1.4.1",
     "glob": "^7.1.6",
     "prettier": "^2.2.1",
     "react-native-svg": "^12.1.0",
